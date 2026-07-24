@@ -6,6 +6,7 @@ Reconstrucción independiente en HTML, CSS y JavaScript. Cada sección funciona 
 
 - `index.html` — Inicio
 - `conocenos.html` — Historia e identidad
+- `equipo.html` — Dirección y responsables por área
 - `acciones.html` — Portafolio general
 - `proyectos.html` — Proyectos educativos
 - `conferencias.html` — Conferencias
@@ -23,6 +24,7 @@ Reconstrucción independiente en HTML, CSS y JavaScript. Cada sección funciona 
 sonrie-corazon-multipagina/
 ├── index.html
 ├── conocenos.html
+├── equipo.html
 ├── acciones.html
 ├── proyectos.html
 ├── conferencias.html
@@ -88,6 +90,7 @@ El código se distribuye bajo licencia MIT. La marca, textos institucionales, fo
 Esta versión utiliza una dirección visual más cercana al sitio original de Wix: navegación blanca, titulares grandes, composición fotográfica, bloques planos y colores institucionales. Cada página tiene un sistema propio para evitar que todas las secciones se perciban como una misma plantilla:
 
 - **Conócenos:** diseño editorial dividido y cronología horizontal.
+- **Equipo:** dirección destacada y cinco áreas con composiciones visuales diferentes.
 - **Acciones:** mosaico fotográfico asimétrico.
 - **Proyectos:** dossier amarillo con proyectos en franjas diferenciadas.
 - **Conferencias:** portada fotográfica y agenda editorial.
