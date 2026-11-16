@@ -1,0 +1,9 @@
+Revisión final: 16 de noviembre de 2026
+
+14 páginas HTML revisadas: títulos, idioma, metadatos, imágenes, etiquetas de formularios, identificadores y enlaces internos.
+Sin rutas locales ni fragmentos rotos detectados. Imágenes locales verificadas y JavaScript con sintaxis válida.
+Video: H.264 / AAC, yuv420p, duración 49.92 s.
+Revisión visual: portada en escritorio y vista de 390 píxeles, menú móvil, retratos institucionales, filtro de galería y ampliación de fotografía.
+Formularios: preparan un correo en la aplicación del visitante, sin backend.
+
+Corrección de carga: todos los archivos por debajo de 25 MiB. ZIP con index.html y assets directamente en la raíz. Video optimizado conservando duración, audio y resolución.

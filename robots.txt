@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sonriecorazon.org/sitemap.xml
